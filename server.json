@@ -15,6 +15,22 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-04-12T23:01:03.701Z"
+    },
+    {
+      "id": 3,
+      "description": "Pastel",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 20,
+      "createdAt": "2023-04-12T23:01:03.701Z"
+    },
+    {
+      "id": 4,
+      "description": "Curso Ignite",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 999,
+      "createdAt": "2023-04-12T23:01:03.701Z"
     }
   ]
 }
