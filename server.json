@@ -31,6 +31,30 @@
       "category": "Educação",
       "price": 999,
       "createdAt": "2023-04-12T23:01:03.701Z"
+    },
+    {
+      "description": "oxeee",
+      "price": 10000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-04-14T16:20:59.464Z",
+      "id": 5
+    },
+    {
+      "description": "sanduiche",
+      "price": 5,
+      "category": "alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-14T17:13:39.124Z",
+      "id": 6
+    },
+    {
+      "description": "dasdasdasd",
+      "price": 56,
+      "category": "fsdfsdfsdf",
+      "type": "outcome",
+      "createdAt": "2023-04-14T17:27:32.705Z",
+      "id": 7
     }
   ]
 }
